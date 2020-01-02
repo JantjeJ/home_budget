@@ -1,2 +1,2 @@
 # home_budget
-Software for home budget managment
+Software for home budget management
